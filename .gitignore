@@ -1,0 +1,30 @@
+## ---------- Basics
+# Git
+/var/*
+!/var/.gitignore
+## ---------- Generic system files to ignore
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+# Linux
+*~
+.directory
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+# Other
+*.lock
+*.swp
+*.out
+## ---------- JetBrains IDEs (PhpStorm, WebStorm, PyCharm, etc.)
+# IntelliJ IDEA modules
+*.iml
+# Project settings folder
+.idea/
