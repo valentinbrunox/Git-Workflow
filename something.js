@@ -3,6 +3,6 @@
 min = 5
 max = 25
 
-for (let index = 0; index < 10; index++){
+for (let index = 5; index < 25; index++){
     console.log(index);
 }
