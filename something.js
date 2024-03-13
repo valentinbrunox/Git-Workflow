@@ -1,5 +1,8 @@
 // Some useless JavaScript code
 
-for (let i = 0; i < 10; i++){
-    console.log(i);
+min = 5
+max = 25
+
+for (let index = 5; index < 25; index++){
+    console.log(index);
 }
